@@ -1,0 +1,20 @@
+[package]
+name = "sstv-rust"
+version = "0.1.0"
+edition = "2024"
+authors = ["ElfRadio VK7KSM"]
+description = "高性能SSTV调制器Rust库"
+license = "MIT"
+repository = "https://github.com/elfradio/sstv-rust"
+keywords = ["sstv", "audio", "modulation", "ham-radio", "image"]
+categories = ["multimedia::audio", "multimedia::images"]
+
+[dependencies]
+image = "0.25.6"
+hound = "3.5"
+rayon = "1.8"
+thiserror = "1.0"
+png = "0.17"
+chrono = { version = "0.4", features = ["serde"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
