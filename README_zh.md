@@ -407,7 +407,7 @@ println!("内存变化: {}KB",
 - [业余无线电SSTV规范](http://www.barberdsp.com/files/Dayton%20Paper.pdf)
 - [RX-SSTV解码软件](http://users.belgacom.net/hamradio/rxsstv.htm)
 - [MMSSTV发射软件](https://hamsoft.ca/pages/mmsstv.php)
-- [业余无线电协会](http://www.crac.org.cn/)
+
 
 ---
 

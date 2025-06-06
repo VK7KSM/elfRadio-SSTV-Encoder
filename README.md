@@ -407,7 +407,6 @@ This library aims to:
 - [Amateur Radio SSTV Standards](http://www.barberdsp.com/files/Dayton%20Paper.pdf)
 - [RX-SSTV Decoder Software](http://users.belgacom.net/hamradio/rxsstv.htm)
 - [MMSSTV Transmitter Software](https://hamsoft.ca/pages/mmsstv.php)
-- [Chinese Amateur Radio Association](http://www.crac.org.cn/)
 
 ---
 
